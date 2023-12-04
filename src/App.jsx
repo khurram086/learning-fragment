@@ -15,8 +15,6 @@ function App() {
     ))}
   
 </ul>
-
-<h2>This is the change to check push request</h2>
 </>
   );
 }
