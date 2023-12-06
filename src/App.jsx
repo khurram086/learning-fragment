@@ -4,7 +4,7 @@ import './App.css'
 
 function App() {
   
-  letfoodItems=["Dal","Green Vegetable","Roti","Salad","Milk"];
+  let foodItems=["Dal","Green Vegetable","Roti","Salad","Milk"];
 
   return (
   <>
